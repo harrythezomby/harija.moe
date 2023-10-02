@@ -1,6 +1,6 @@
 +++
 title = 'Entry-Level Hardtail Upgrades!'
-date = 2023-09-29T06:28:24-04:00
+date = 2023-08-15T06:28:24-04:00
 draft = false
 +++
 ## Introduction
