@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harija.moe/sitemap.xml

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harija</title>
+    <link>https://harija.moe/projects/</link>
+    <description>Recent content in Projects on Harija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Harija Wijesinghe</copyright>
+    <lastBuildDate>Fri, 18 Aug 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nintendo Switch Modding</title>
+      <link>https://harija.moe/projects/nintendo-switch-modding/</link>
+      <pubDate>Fri, 18 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/nintendo-switch-modding/</guid>
+      <description>Checking If The Console Was Patched # A while ago, I became keen to experiment on my V1 Switch which I got in around 2018, and since it was just sitting in my closet gathering dust, I decided to play around with the software and see if I could get homebrew working.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/nintendo-switch-modding/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Logitech G923 Deep Dish Mod (&#43; Shifter Mods)</title>
+      <link>https://harija.moe/projects/g923-mods/</link>
+      <pubDate>Thu, 17 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/g923-mods/</guid>
+      <description>Introduction # This is an older project, as I’ve since lost most of my interest in sim-racing and driving thanks to getting my Learners License in real life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/g923-mods/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Customizing a $30 Amazon Keyboard!</title>
+      <link>https://harija.moe/projects/amazon-keyboard/</link>
+      <pubDate>Wed, 16 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/amazon-keyboard/</guid>
+      <description>Introduction # Recently, I picked up a HK Gaming GK61 from Amazon.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/amazon-keyboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Entry-Level Hardtail Upgrades!</title>
+      <link>https://harija.moe/projects/entry-level-hardtail-upgrades/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/entry-level-hardtail-upgrades/</guid>
+      <description>Introduction # So, I recently picked up a Marin Bobcat Trail 3 to get into mountain biking.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/entry-level-hardtail-upgrades/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>PC Upgrading Throughout The Years</title>
+      <link>https://harija.moe/projects/pc-upgrading-throughout-the-years/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/pc-upgrading-throughout-the-years/</guid>
+      <description>Beginning # Back in around Q3 2020, my old ROG GL552VW gaming laptop with a 960M and i7 6700HQ was starting to get really slow, and unable to play newer games at the 60fps mark, and struggling to even get 30fps in some cases – which is why I decided to build my pc: I already had most of my peripherals prior to the PC, such as the Corsair K68 Red keyboard I picked up during my Osu phase.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/pc-upgrading-throughout-the-years/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
