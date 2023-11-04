@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Harija</title>
+    <link>https://harija.moe/blog/</link>
+    <description>Recent content in Blogs on Harija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Harija Wijesinghe</copyright>
+    <lastBuildDate>Tue, 15 Aug 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uses &#43; Setup</title>
+      <link>https://harija.moe/blog/test/uses/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/blog/test/uses/</guid>
+      <description>Uses: # Here&amp;rsquo;s a bit of info on what I use day-to-day on my computers.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

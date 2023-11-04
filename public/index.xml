@@ -2,49 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harija</title>
-    <link>https://harija.moe/index.html</link>
+    <link>https://harija.moe/</link>
     <description>Recent content on Harija</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Harija Wijesinghe</copyright>
-    <atom:link href="https://harija.moe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Authors</title>
-      <link>https://harija.moe/authors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>How To Disable The dGPU On The MSI Delta 15</title>
+      <link>https://harija.moe/posts/delta15dgpudisable/</link>
+      <pubDate>Tue, 10 Oct 2023 06:28:24 -0400</pubDate>
       
-      <guid>https://harija.moe/authors/</guid>
-      <description></description>
+      <guid>https://harija.moe/posts/delta15dgpudisable/</guid>
+      <description>Background # If you&amp;rsquo;re like me and have got an Msi Delta 15 or similar Msi laptop with a dGPU, you can probably disable it to get way more battery life, since even light apps can randomly cause it to turn on for no reason.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/posts/delta15dgpudisable/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Nintendo Switch Modding</title>
+      <link>https://harija.moe/projects/nintendo-switch-modding/</link>
+      <pubDate>Fri, 18 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/nintendo-switch-modding/</guid>
+      <description>Checking If The Console Was Patched # A while ago, I became keen to experiment on my V1 Switch which I got in around 2018, and since it was just sitting in my closet gathering dust, I decided to play around with the software and see if I could get homebrew working.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/nintendo-switch-modding/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Logitech G923 Deep Dish Mod (&#43; Shifter Mods)</title>
+      <link>https://harija.moe/projects/g923-mods/</link>
+      <pubDate>Thu, 17 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/g923-mods/</guid>
+      <description>Introduction # This is an older project, as I’ve since lost most of my interest in sim-racing and driving thanks to getting my Learners License in real life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/g923-mods/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Customizing a $30 Amazon Keyboard!</title>
+      <link>https://harija.moe/projects/amazon-keyboard/</link>
+      <pubDate>Wed, 16 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/amazon-keyboard/</guid>
+      <description>Introduction # Recently, I picked up a HK Gaming GK61 from Amazon.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/amazon-keyboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://harija.moe/about-me/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/about-me/</guid>
+      <description>Gaming: # I love playing all sorts of games, ranging from Racing/Driving Sims, to FPS’, to Japanese Anime and Visual Novel games.</description>
       
     </item>
     
     <item>
-      <title>Categories</title>
-      <link>https://harija.moe/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>https://harija.moe/contact/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
       
-      <guid>https://harija.moe/categories/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Series</title>
-      <link>https://harija.moe/series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harija.moe/series/</guid>
-      <description></description>
+      <guid>https://harija.moe/contact/</guid>
+      <description>If you have any questions or comments about any projects, feel free to reach out on any of the following:</description>
       
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://harija.moe/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Entry-Level Hardtail Upgrades!</title>
+      <link>https://harija.moe/projects/entry-level-hardtail-upgrades/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
       
-      <guid>https://harija.moe/tags/</guid>
-      <description></description>
+      <guid>https://harija.moe/projects/entry-level-hardtail-upgrades/</guid>
+      <description>Introduction # So, I recently picked up a Marin Bobcat Trail 3 to get into mountain biking.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/entry-level-hardtail-upgrades/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>PC Upgrading Throughout The Years</title>
+      <link>https://harija.moe/projects/pc-upgrading-throughout-the-years/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/pc-upgrading-throughout-the-years/</guid>
+      <description>Beginning # Back in around Q3 2020, my old ROG GL552VW gaming laptop with a 960M and i7 6700HQ was starting to get really slow, and unable to play newer games at the 60fps mark, and struggling to even get 30fps in some cases – which is why I decided to build my pc: I already had most of my peripherals prior to the PC, such as the Corsair K68 Red keyboard I picked up during my Osu phase.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/pc-upgrading-throughout-the-years/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Uses &#43; Setup</title>
+      <link>https://harija.moe/blog/test/uses/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/blog/test/uses/</guid>
+      <description>Uses: # Here&amp;rsquo;s a bit of info on what I use day-to-day on my computers.</description>
+      
+    </item>
+    
+    <item>
+      <title>Uses &#43; Setup</title>
+      <link>https://harija.moe/uses/</link>
+      <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/uses/</guid>
+      <description>Uses: # Here&amp;rsquo;s a bit of info on what I use day-to-day on my computers.</description>
       
     </item>
     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Harija</title>
+    <link>https://harija.moe/posts/</link>
+    <description>Recent content in Posts on Harija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Harija Wijesinghe</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Disable The dGPU On The MSI Delta 15</title>
+      <link>https://harija.moe/posts/delta15dgpudisable/</link>
+      <pubDate>Tue, 10 Oct 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/posts/delta15dgpudisable/</guid>
+      <description>Background # If you&amp;rsquo;re like me and have got an Msi Delta 15 or similar Msi laptop with a dGPU, you can probably disable it to get way more battery life, since even light apps can randomly cause it to turn on for no reason.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/posts/delta15dgpudisable/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
