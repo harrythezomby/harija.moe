@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Harija"
+title = "The Harija Record"
 
 [params]
   displayName = "EN"
@@ -10,12 +10,12 @@ title = "Harija"
   dateFormat = "2 January 2006"
   logo = "img/harija.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
-  copyright = "© Harija Wijesinghe"
+  description = "Harija's Cool Site"
+  copyright = "© Nobody :D"
 
  [author]
    name = "Harija Wijesinghe"
-   image = "img/greatpfp.jpg"
+   image = "img/evenbetterpfp.jpg"
    headline = "Welcome to my site!"
    bio = "Hi, my name is Harija."
    links = [

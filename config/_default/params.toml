@@ -47,11 +47,12 @@ defaultFeaturedImage = "img/Unsplash.jpg" # used as default for featured images 
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
+  showComments = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -106,21 +107,21 @@ defaultFeaturedImage = "img/Unsplash.jpg" # used as default for featured images 
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyDvgjd58r2cYPKwkG_L89e3mxRZ2eTURlU"
+  authDomain = "harija-fd51a.firebaseapp.com"
+  projectId = "harija-fd51a"
+  storageBucket = "harija-fd51a.appspot.com"
+  messagingSenderId = "200493090243"
+  appId = "1:200493090243:web:ce14d294e3476f98596976"
+  measurementId = "G-X5TK699K7M"
 
 [fathomAnalytics]
   # site = "ABC12345"

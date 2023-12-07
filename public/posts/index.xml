@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Harija</title>
+    <title>Posts on The Harija Record</title>
     <link>https://harija.moe/posts/</link>
-    <description>Recent content in Posts on Harija</description>
+    <description>Recent content in Posts on The Harija Record</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Harija Wijesinghe</copyright>
-    <lastBuildDate>Tue, 10 Oct 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Nobody :D</copyright>
+    <lastBuildDate>Wed, 06 Dec 2023 10:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Harija Record</title>
+      <link>https://harija.moe/posts/harija-record/</link>
+      <pubDate>Wed, 06 Dec 2023 10:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/posts/harija-record/</guid>
+      <description>Cool Book # I&amp;rsquo;ve been reading Mark Z.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/posts/harija-record/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Just Finished Zero Escape</title>
+      <link>https://harija.moe/posts/zero-escape/</link>
+      <pubDate>Wed, 06 Dec 2023 09:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/posts/zero-escape/</guid>
+      <description>Really Good Visual Novel # So.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/posts/zero-escape/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>RX6700m VFIO VM Passthrough</title>
+      <link>https://harija.moe/posts/gpu-passthrough/</link>
+      <pubDate>Wed, 06 Dec 2023 08:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/posts/gpu-passthrough/</guid>
+      <description>Background # Originally, I wasn&amp;rsquo;t completely sure if passing through a Radeon laptop GPU, such as the RX6700m in my MSI Delta 15 would be possible, since all the tutorials I could find were for Intel + Nvidia or AMD + Nvidia.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/posts/gpu-passthrough/featured.jpg" />
+    </item>
+    
     <item>
       <title>How To Disable The dGPU On The MSI Delta 15</title>
       <link>https://harija.moe/posts/delta15dgpudisable/</link>

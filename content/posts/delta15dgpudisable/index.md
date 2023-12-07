@@ -32,3 +32,6 @@ Under Advanced -> Demo Board -> PCI-E Port, set Device 1 Fun 1's ASPM Mode to L0
 ## What Happens
 After making these changes, the laptop should boot up into Windows or Linux or whatever you're using with the red power light on, indicating the dGPU is active for a few seconds to a minute. After that, if everything worked out, it should switch to the white light, and the dGPU shouldn't turn back on, even if doing demanding tasks until these settings are changed back. Moreover, if you're using Windows, the dGPU should have vanished from task manager's system information - I've found that only changing a few of these settings can lead to the dGPU still being in task manager, and thus allowing Windows to still access it. I've also found that in Linux, sometimes doing a system info command like neofetch causes the light to turn red, however the dGPU is once again absent from neofetch, and the light turns back white shortly, so while this isn't a 100% fix for disabling the dGPU, it still works pretty well most of the time.
 
+## Or... If you're on Linux
+Just use Asus Linux's [Supergfxctl](https://gitlab.com/asus-linux/supergfxctl), it's way less buggy and hacky, and works with other laptops apart from Asus ones, like the Msi over here. It also works with both Nvidia and AMD dgpus!
+

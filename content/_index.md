@@ -28,6 +28,9 @@ Check out my [Uses + Setup](/uses) too if you feel like it.
 I also write stuff on my [Blog](/blog) sometimes.
 
 
+There's also the [Site's Repository](https://github.com/harrythezomby/harija.moe).
+
+
 Background image by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/).
 
-{{< swatches "#64748b" "#3b82f6" "#06b6d4" >}}
+{{< swatches "#0384fc" "#f403fc" "#fc0390" >}}

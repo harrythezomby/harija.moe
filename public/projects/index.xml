@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Harija</title>
+    <title>Projects on The Harija Record</title>
     <link>https://harija.moe/projects/</link>
-    <description>Recent content in Projects on Harija</description>
+    <description>Recent content in Projects on The Harija Record</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Harija Wijesinghe</copyright>
-    <lastBuildDate>Fri, 18 Aug 2023 06:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/projects/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Nobody :D</copyright>
+    <lastBuildDate>Wed, 06 Dec 2023 07:28:24 -0400</lastBuildDate><atom:link href="https://harija.moe/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSI Delta 15 Upgrades &#43; Maintainence Journey</title>
+      <link>https://harija.moe/projects/delta-upgrades/</link>
+      <pubDate>Wed, 06 Dec 2023 07:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/delta-upgrades/</guid>
+      <description>Background # After getting my Delta 15 back from RMA due to battery issues, I decided to upgrade it with the Ram and SSD i bought for my drop-in replacement - the HP Elitebook, as well as an extra 16GB stick for a total of 32GB of RAM, especially since I&amp;rsquo;ve been getting into virtualization and other goodies like Windows VMs on Linux.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/delta-upgrades/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Hp Elitebook Upgrades</title>
+      <link>https://harija.moe/projects/elitebook-upgrades/</link>
+      <pubDate>Wed, 06 Dec 2023 06:28:24 -0400</pubDate>
+      
+      <guid>https://harija.moe/projects/elitebook-upgrades/</guid>
+      <description>Background # While my MSI Delta 15 was in RMA, thanks to battery issues I might go into more detail about in a different post, I had to switch back to my old laptop for school, which was this 2019 Hp Elitebook 830 g6 I bought from my school back in 2020.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/elitebook-upgrades/featured.jpg" />
+    </item>
+    
     <item>
       <title>Nintendo Switch Modding</title>
       <link>https://harija.moe/projects/nintendo-switch-modding/</link>
@@ -49,13 +69,13 @@
     </item>
     
     <item>
-      <title>PC Upgrading Throughout The Years</title>
-      <link>https://harija.moe/projects/pc-upgrading-throughout-the-years/</link>
+      <title>PC Upgrading</title>
+      <link>https://harija.moe/projects/pc-upgrading/</link>
       <pubDate>Tue, 15 Aug 2023 06:28:24 -0400</pubDate>
       
-      <guid>https://harija.moe/projects/pc-upgrading-throughout-the-years/</guid>
+      <guid>https://harija.moe/projects/pc-upgrading/</guid>
       <description>Beginning # Back in around Q3 2020, my old ROG GL552VW gaming laptop with a 960M and i7 6700HQ was starting to get really slow, and unable to play newer games at the 60fps mark, and struggling to even get 30fps in some cases – which is why I decided to build my pc: I already had most of my peripherals prior to the PC, such as the Corsair K68 Red keyboard I picked up during my Osu phase.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/pc-upgrading-throughout-the-years/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://harija.moe/projects/pc-upgrading/featured.jpg" />
     </item>
     
   </channel>
