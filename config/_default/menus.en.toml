@@ -18,12 +18,12 @@
  [[main]]
  name = "Uses + Setup"
  pageRef = "uses"
- weight = 20
+ weight = 25
 
  [[main]]
  name = "Blog"
  pageRef = "posts"
- weight = 25
+ weight = 20
 
 [[main]]
  name = "About Me"
