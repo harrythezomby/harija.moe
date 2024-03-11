@@ -3,6 +3,7 @@ title = 'About Me'
 draft = false
 date = 2023-08-15T06:28:24-04:00
 layout = "about"
+summary = "My interests/hobbies."
 +++
 ## Gaming:
 I love playing all sorts of games, ranging from Racing/Driving Sims, to FPS’, to Japanese Anime and Visual Novel games. My favorite games of all time include the Forza Motorsport and Horizon series (although I’m not a fan of the newer ones), Danganronpa, Higurashi and Umineko No Naku Koro Ni, Quake and Doom, and Euro Truck Simulator. Over the years I’ve played on lots of different consoles such as the Xbox 360 and more recently, the Nintendo Switch, however nowadays I stick with PC. 

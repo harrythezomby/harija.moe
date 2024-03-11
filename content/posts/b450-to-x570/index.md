@@ -3,6 +3,7 @@ title = 'B450 to X570'
 draft = false
 date = 2024-02-08T06:28:24-04:00
 layout = "posts"
+summary = "My experience upgrading to an X570 board from a B450 in terms of VFIO and PCIe stuff."
 +++
 ## Background
 Seeing as my old MSI B450 Carbon Max was [struggling](/posts/arc-pcie-benchmark/) to keep up with running two gpus off of it thanks to the 2nd slot being routed through the chipset at PCIe 2.0 x4 speeds, as well as the issues I describe which arose from running my host GPU through that slot, which I go into more detail [here](/projects/gpu-adventures). I was also pretty bummed out at having to live with one NVMe drive, seeing as using a second GPU disabled the slot, thanks to the B450 chipset not having enough PCIe lanes - upgrading would also allow me to passthrough another one or more NVMe drives to my Windows VM. I began to look for a good used X570 mobo to replace it. Seeing as X570 boards are now discontinued, unlike B550 boards which continue to be sold, I decided Facebook Marketplace would be the best place to find my new mobo.

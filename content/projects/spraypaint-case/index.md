@@ -3,6 +3,7 @@ title = 'Spray Painting PC Case'
 draft = false
 date = 2024-02-09T07:28:24-04:00
 layout = "projects"
+summary = "Spray painting my PC case just for fun!"
 +++
 ## Background
 So, I was bored one weekend and just felt like spray painting my PC case after the thought crossing my mind a few times in the past. I only painted the front panel and side panel since everything else was riveted on. After sanding everything down, applying some white undercoat/primer, and then a layer of fluorescent pink, I think the end result was way better than I (as a rookie painter) thought it'd be - beauty is in the eye of the beholder after all...

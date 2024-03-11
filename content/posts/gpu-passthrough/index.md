@@ -2,6 +2,7 @@
 title = 'RX6700m VFIO VM Passthrough'
 date = 2023-12-06T08:28:24-04:00
 draft = false
+summary = "Passing through the all-AMD MSI Delta 15's dGPU through to a Windows 11 VM."
 +++
 ## Background
 Originally, I wasn't completely sure if passing through a Radeon laptop GPU, such as the RX6700m in my MSI Delta 15 would be possible, since all the tutorials I could find were for Intel + Nvidia or AMD + Nvidia. However, thanks to [Asus Linux's awesome passthrough tutorial](https://asus-linux.org/wiki/vfio-guide/), I was able to get my GPU passed through to my Windows 11 VM, as well as getting Looking Glass working, creating a great way to ~~use Microsoft Word at 240 fps...~~ I mean game :)

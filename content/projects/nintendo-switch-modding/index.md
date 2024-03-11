@@ -2,6 +2,7 @@
 title = 'Nintendo Switch Modding'
 date = 2023-08-18T06:28:24-04:00
 draft = false
+summary = "Modding my V1 Switch with CFW and a transparent Shell."
 +++
 ## Checking If The Console Was Patched
 A while ago, I became keen to experiment on my V1 Switch which I got in around 2018, and since it was just sitting in my closet gathering dust, I decided to play around with the software and see if I could get homebrew working. First of all, I made sure to check my Switch’s serial number to see if it was patched or not – luckily it wasn’t. 

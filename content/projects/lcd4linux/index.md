@@ -3,6 +3,7 @@ title = 'lcd4linux System Monitor'
 draft = false
 date = 2024-02-09T05:28:24-04:00
 layout = "projects"
+summary = "Tinkering with lcd4linux on a cheap AX206 display."
 +++
 ## Background
 A while ago, I got this cool little AX206 display from AliExpress for about $20AUD. Adding in the internal USB 2.0 header to USB-C cable for another $3 or so, plus a USB header splitter (thanks to already having two RGB controllers for the two headers) for another $3, and that's a neat little screen on the inside of your PC.

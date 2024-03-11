@@ -2,6 +2,7 @@
 title = 'Entry-Level Hardtail Upgrades!'
 date = 2023-08-15T06:28:24-04:00
 draft = false
+summary = "Upgrading the Marin Bobcat Trail 3 with better contact points, a PNW dropper post, and tubeless Maxxis Minions."
 +++
 ## Introduction
 So, I recently picked up a Marin Bobcat Trail 3 to get into mountain biking. I’ve been having a blast, so I decided to give it a few upgrades. Here’s what it originally looked like stock:

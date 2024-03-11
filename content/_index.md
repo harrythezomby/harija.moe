@@ -31,7 +31,7 @@ I also write stuff on my [Blog](/blog) sometimes.
 There's also the [Site's Repo](https://github.com/harrythezomby/harija.moe).
 
 
-{{< alert icon="ghost" cardColor="#e63946" iconColor="#1d3557">}}
+{{< alert icon="ghost">}}
 wooooooooo
 {{< /alert >}}
 

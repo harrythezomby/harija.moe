@@ -2,6 +2,7 @@
 title = 'Logitech G923 Deep Dish Mod (+ Shifter Mods)'
 date = 2023-08-17T06:28:24-04:00
 draft = false
+summary = "Modding my G923 with a deep dish wheel and tactile shifter mod."
 +++
 ## Introduction
 This is an older project, as I’ve since lost most of my interest in sim-racing and driving thanks to getting my Learners License in real life. A few years back, I got a Logitech g923 along with the Logitech Shifter to get into Sim racing:

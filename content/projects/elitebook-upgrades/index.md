@@ -2,6 +2,7 @@
 title = 'Hp Elitebook Upgrades'
 date = 2023-12-06T06:28:24-04:00
 draft = false
+summary = "Upgrading the RAM and Storage on my old Elitebook while my main laptop was in RMA."
 +++
 ## Background
 While my MSI Delta 15 was in RMA, thanks to battery issues I might go into more detail about in a different post, I had to switch back to my old laptop for school, which was this 2019 Hp Elitebook 830 g6 I bought from my school back in 2020.

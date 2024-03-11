@@ -2,6 +2,7 @@
 title = 'MSI Delta 15 Upgrades + Maintainence Journey'
 date = 2023-12-06T07:28:24-04:00
 draft = false
+summary = "Upgrading the RAM and Storage on this guy's annoying flipped motherboard. Plus greasing the *terrible* hinges."
 +++
 ## Background
 After getting my Delta 15 back from RMA due to battery issues, I decided to upgrade it with the Ram and SSD i bought for my drop-in replacement - the HP Elitebook, as well as an extra 16GB stick for a total of 32GB of RAM, especially since I've been getting into virtualization and other goodies like Windows VMs on Linux.

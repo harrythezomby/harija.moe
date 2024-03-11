@@ -3,6 +3,7 @@ title = 'Uses + Setup'
 draft = false
 date = 2023-08-15T06:28:24-04:00
 layout = "about"
+summary = "What I mainly use on my computers + my dotfiles and setup."
 +++
 ## Uses:
 Here's a bit of info on what I use day-to-day on my computers.
