@@ -25,7 +25,7 @@ Feel free to [Contact](/contact) me for any questions/comments.
 Check out my [Uses + Setup](/uses) too if you feel like it.
 
 
-I also write stuff on my [Blog](/blog) sometimes.
+I also write stuff on my [Blog](/posts) sometimes.
 
 
 There's also the [Site's Repo](https://github.com/harrythezomby/harija.moe).

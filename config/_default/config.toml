@@ -1,6 +1,7 @@
 theme = "blowfish"
 baseURL = "https://harija.moe/"
 defaultContentLanguage = "en"
+ignoreLogs = ['error-remote-getjson']
 
 enableRobotsTXT = true
 paginate = 15

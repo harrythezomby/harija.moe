@@ -14,13 +14,12 @@ title = "harija.moe"
   copyright = "© Nobody :D"
 
  [author]
-   name = "Harija Wijesinghe"
+   name = "Harija Thoradeniya"
    image = "img/evenbetterpfp.jpg"
    headline = "/home/harija"
-   bio = "Hi, my name is Harija."
+   bio = "Hi, my name's Harija."
    links = [
 
-     { discord = "https://discord.gg/7VYXrYpBUr" },
      { github = "https://github.com/harrythezomby" },
      { lastfm = "https://www.last.fm/user/htz-fm" },
      { steam = "https://steamcommunity.com/id/harija" },
