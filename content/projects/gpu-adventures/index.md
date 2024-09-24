@@ -4,6 +4,7 @@ draft = false
 date = 2024-02-10T06:28:24-04:00
 layout = "projects"
 summary = "My adventure of trying out two Intel Arc Cards on my host on both a B450 and X570 motherboard."
+tags = ["PC", "GPU", "VFIO", "Linux", "Virtualisation"]
 +++
 ## Background
 So I'd been wanting to try out GPU Passthrough on my PC, having tried it out on my [Laptop](/posts/gpu-passthrough/). I'm honestly not much of a masochist so I never bothered with Single GPU PT, instead opting to pick up a second GPU and go all out.

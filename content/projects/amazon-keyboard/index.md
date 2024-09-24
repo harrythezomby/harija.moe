@@ -3,6 +3,7 @@ title = 'Customizing a $30 Amazon Keyboard!'
 date = 2023-08-16T06:28:24-04:00
 draft = false
 summary = "Changing out the switches and key-caps on the great value GK61."
+tags = ["Keyboards", "Modding", "Budget"]
 +++
 ## Introduction
 Recently, I picked up a HK Gaming GK61 from Amazon. It’s a pretty cheap per-key RGB (although fairly limited) hot swappable keyboard – mechanical of course. I actually got the wrong version at first – the one with optical switches rather than mechanical switches, which I soon (after diving deeper into the keyboard rabbit hole) realized was a very silly move. 

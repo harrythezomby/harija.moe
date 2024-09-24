@@ -3,6 +3,7 @@ title = 'How To Disable The dGPU On The MSI Delta 15'
 draft = false
 date = 2023-10-10T06:28:24-04:00
 summary = "Diving into this the Delta 15's advanced BIOS."
+tags = ["PC", "Laptop", "MSI", "Delta 15", "GPU"]
 +++
 ## Background
 If you're like me and have got an Msi Delta 15 or similar Msi laptop with a dGPU, you can probably disable it to get way more battery life, since even light apps can randomly cause it to turn on for no reason.

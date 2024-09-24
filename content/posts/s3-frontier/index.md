@@ -2,8 +2,8 @@
 title = 'Playing Around with the Gear S3 Frontier'
 draft = false
 date = 2024-09-20T06:29:27-04:00
-summary = "Playing Around with the 8-year-old Samsung Gear S3 Frontier"
-tags = ["Watch"]
+summary = "Playing Around with the 8-year-old Samsung Gear S3 Frontier."
+tags = ["Watchs"]
 +++
 ## Stuff
 Just a quick post here where I wanted to talk about the Gear S3 Frontier I got my hands on. For an over 8 year old watch, it's surprisingly fast to date, especially compared to my daily driver for the last four years - the Fitbit Versa 3. 

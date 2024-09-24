@@ -2,8 +2,8 @@
 title = 'Kaiser Baas Picture Frame lcd4linux + Disassembly'
 draft = false
 date = 2024-09-20T06:29:25-04:00
-summary = "Getting lcd4linux up and running on a 17-year-old generic AX206 picture frame."
-tags = ["Linux", "lcd4linux"]
+summary = "Getting lcd4linux up and running on, and tearing down a 17-year-old generic AX206 picture frame."
+tags = ["Linux", "lcd4linux", "Guide", "Teardown"]
 +++
 
 ## Background
@@ -17,8 +17,8 @@ After playing around quite a bit with lcd4linux on the AliExpress AX206 screen, 
 Having flashed the dpf-ax firmware onto my frame using the steps on the GitHub readme, lcd4linux started working after a simple config change of setting my config's USB id to point to the frame rather than the screen in my PC. Apart from lcd4linux itself, the firmware includes an options menu with a few neat little settings. Plus, when nothing is connected to the frame (i.e., no lcd4linux), some cute little eyes pop up on it, kind of reminiscent of xeyes.
 ![Image (Cbb lol)](/img/kbframe/usbconnect.jpg)
 ![Image (Cbb lol)](/img/kbframe/eyes.jpg)
-![Image (Cbb lol)](/img/kbframe/pluggedinfront.jpg)
-![Image (Cbb lol)](/img/kbframe/pluggedinfrontmenu.jpg)
+![Image (Cbb lol)](/img/kbframe/prevpluggedinfront.jpg)
+![Image (Cbb lol)](/img/kbframe/prevpluggedinfrontmenu.jpg)
 
 ## Disassembly
 

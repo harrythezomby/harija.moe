@@ -3,6 +3,7 @@ title = 'Arc A750 PCIe Gen 2 x4 vs Gen 3 x16 Benchmarked'
 draft = false
 date = 2024-02-07T06:28:24-04:00
 summary = "Testing the Intel Arc A750 at about 1/30th of its recommended bandwidth."
+tags = ["PC", "GPUs", "GPU", "Intel", "Arc"]
 +++
 
 

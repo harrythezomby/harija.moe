@@ -1,8 +1,8 @@
 +++
-title = 'First IEMs - Truthear Zero Red'
+title = 'Truthear Zero Red'
 draft = false
 date = 2024-09-20T06:29:24-04:00
-summary = "A little bit on my first ever set of IEMs - the Truthear Zero Red"
+summary = "A little bit on my first ever set of IEMs - the Truthear Zero Red."
 tags = ["IEMs", "Audio"]
 +++
 ## Background
@@ -24,5 +24,7 @@ A little while later, I also got a Tripowin Zonie cable for it, although I later
 
 ## Conclusion
 Overall, these IEMs pulled me into the never-ending rabbit hole, with them eventually becoming the catalyst for me getting into IEMs themselves (obviously), Lossless audio (i.e., flacs, wavs, etc), Massive hard drives to store all this lossless music (lol), and so much more, making them somewhat of a domino leading to a spiral of interests for me personally.
+
+If you wanna learn more about the other IEMs I use (I've collected about 10 so far as of writing this), I've written a bit about them [here in my uses + setup section](/uses/#iems).
 
 Thanks for reading!

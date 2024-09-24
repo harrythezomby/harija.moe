@@ -3,6 +3,7 @@ title = 'PC Upgrading'
 date = 2023-08-15T06:28:24-04:00
 draft = false
 summary = "How I've upgraded my PC from 2020 to early 2023."
+tags = ["PC", "Upgrades"]
 +++
 ## Beginning
 Back in around Q3 2020, my old ROG GL552VW gaming laptop with a 960M and i7 6700HQ was starting to get really slow, and unable to play newer games at the 60fps mark, and struggling to even get 30fps in some cases – which is why I decided to build my pc:
