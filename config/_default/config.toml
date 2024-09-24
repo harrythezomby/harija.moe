@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 ignoreLogs = ['error-remote-getjson']
 
 enableRobotsTXT = true
-paginate = 15
+paginate = 100
 summaryLength = 0
 
 buildDrafts = false
@@ -61,4 +61,4 @@ buildFuture = false
 
 [services]
   [services.disqus]
-  shortname = 'harija.disqus.com'
+  shortname = 'harija'

@@ -10,10 +10,10 @@ title = "harija.moe"
   dateFormat = "2 January 2006"
   logo = "img/harija.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Harija's random tech site or smth idk"
+  description = "Harija's random tech blog or smth idk"
   copyright = "© Nobody :D"
 
- [author]
+ [params.author]
    name = "Harija Thoradeniya"
    image = "img/evenbetterpfp.jpg"
    headline = "/home/harija"
@@ -24,4 +24,5 @@ title = "harija.moe"
      { lastfm = "https://www.last.fm/user/htz-fm" },
      { steam = "https://steamcommunity.com/id/harija" },
      { youtube = "https://www.youtube.com/@harrythezomby" },
+     { instagram = "https://instagram.com/notharija" },
   ]
